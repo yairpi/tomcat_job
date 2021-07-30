@@ -1,5 +1,5 @@
 <html>
   <body>
-    <% out.print("helo world"); %>
+    <h1>Sample Application JSP Page</h1>
   </body>
 </html>
