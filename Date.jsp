@@ -2,7 +2,7 @@
 <head>
 <title>Sample Application JSP Page</title>
 </head>
-<body bgcolor=white>
+<body>
 
 <h1>Sample Application JSP Page</h1>
 
